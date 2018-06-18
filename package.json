@@ -1,0 +1,14 @@
+{
+  "name": "ACNCalc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nickyemyob/ACNCalc.git",
+  "author": "Nick Ye <30612557+nickyemyob@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
